@@ -20,6 +20,20 @@ sudo update-binfmts --enable qemu-aarch64
 
 
 
+    Enable the arm64 architecture (this matches aarch64):
+
+    sudo dpkg --add-architecture arm64
+
+    Update the local repository caches:
+
+    sudo apt update
+
+    Install the arm64 C library:
+
+    sudo apt install libc6:arm64
+
+
+
 
 
 
