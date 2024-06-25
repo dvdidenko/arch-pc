@@ -4,3 +4,7 @@ https://www.youtube.com/watch?v=R6oWX-NVA10
 https://www.youtube.com/watch?v=4OVyRWyYKVk
 https://www.youtube.com/watch?v=05uhv3Zq3JE
 https://www.youtube.com/watch?v=D2fAyI81WZA
+
+hugo server
+qemu-aarch64-static: Could not open '/lib/ld-linux-aarch64.so.1': No such file or directory
+
